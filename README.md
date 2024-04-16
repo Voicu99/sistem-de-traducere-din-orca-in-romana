@@ -1,0 +1,1 @@
+# sistem de traducere din orca in romana
